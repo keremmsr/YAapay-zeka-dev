@@ -1,1 +1,1 @@
-# YAapay-zeka-dev
+# YAapay-zeka-ödev
